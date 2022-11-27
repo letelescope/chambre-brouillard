@@ -43,15 +43,16 @@ D'après [Prinsfrank.nl - 2022-05-02](https://prinsfrank.nl/2022/05/02/Building-
 De même il semblerait qu'il ne faille pas stacker de cellules de même "puissance" et mettre au dessus (celles qui sont en contact avec la plaque réfrigée), celle avec la capacité la plus faible. Si l'on imagine une solution à Quatre stacks
 
 
-**PLAQUE DE CUIVRE**
-|                   |                   | 
+
+|**PLAQUE DE CUIVRE**|**PLAQUE DE CUIVRE**| 
 |:-----------------:|:-----------------:|
 | 12712 - 50% (5V)  | 12712 - 50% (5V)  |
 | 12715 - 100% (12V)| 12715 - 100% (12V)| 
 |-------------------|-------------------|
 | 12712 - 50% (5V)  | 12712 - 50% (5V)  |
 | 12715 - 100% (12V)| 12715 - 100% (12V)| 
-**WATERBLOCK**
+|**WATERBLOCK**     |**WATERBLOCK**     |
+
 ## liste des resources
 
 - [bibliographie](./bibliographie.md)
